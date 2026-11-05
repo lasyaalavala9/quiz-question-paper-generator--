@@ -1,0 +1,16 @@
+
+What is Java?|Programming language|Database|Operating system|Web browser|A|Java
+Which keyword is used to create an object in Java?|class|new|static|void|B|Java
+Which method is the starting point of a Java program?|start()|run()|main()|execute()|C|Java
+Which data type stores whole numbers in Java?|float|int|char|boolean|B|Java
+Which keyword is used to inherit a class in Java?|implements|extends|inherits|super|B|Java
+Which data structure follows FIFO?|Stack|Queue|Tree|Graph|B|DSA
+Which data structure follows LIFO?|Queue|Array|Stack|Linked List|C|DSA
+What is the time complexity of binary search?|O(n)|O(log n)|O(n^2)|O(1)|B|DSA
+Which sorting algorithm uses divide and conquer?|Bubble Sort|Selection Sort|Quick Sort|Linear Search|C|DSA
+Which data structure stores elements in contiguous memory locations?|Linked List|Array|Tree|Graph|B|DSA
+What does CPU stand for?|Central Processing Unit|Computer Personal Unit|Central Program Utility|Control Processing User|A|COA
+Which memory is the fastest?|Hard Disk|RAM|Cache Memory|DVD|C|COA
+Which component performs arithmetic and logical operations?|Control Unit|ALU|RAM|Register|B|COA
+Which number system uses base 2?|Decimal|Octal|Binary|Hexadecimal|C|COA
+What is the decimal value of binary 1010?|8|9|10|12|C|COA

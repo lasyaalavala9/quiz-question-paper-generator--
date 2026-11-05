@@ -1,0 +1,22 @@
+===== QUESTION PAPER =====
+Subject: Java
+Total Questions: 3
+
+1. Which keyword is used to create an object in Java?
+A. class
+B. new
+C. static
+D. void
+
+2. Which keyword is used to inherit a class in Java?
+A. implements
+B. extends
+C. inherits
+D. super
+
+3. Which data type stores whole numbers in Java?
+A. float
+B. int
+C. char
+D. boolean
+
