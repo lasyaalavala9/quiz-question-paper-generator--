@@ -89,3 +89,11 @@ This project helped me practice:
 - Add a timer for quizzes
 - Add more question categories
 - Export question papers as PDF files.
+## Project Highlights
+
+- Interactive multiple-choice quiz
+- Automatic score calculation
+- Question management
+- Random question paper generation
+- File-based question storage
+- Subject-wise question organization
