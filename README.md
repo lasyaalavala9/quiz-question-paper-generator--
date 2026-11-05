@@ -45,8 +45,6 @@ QuizQuestionPaperGenerator/
 git clone https://github.com/lasyaalavala9/quiz-question-paper--.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ### 2. Open the project folder
 
 ```bash
