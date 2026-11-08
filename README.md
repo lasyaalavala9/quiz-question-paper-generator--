@@ -97,3 +97,11 @@ This project helped me practice:
 - Random question paper generation
 - File-based question storage
 - Subject-wise question organization
+## Project Overview
+
+This application is developed using Core Java.
+It provides an interactive quiz system and an automatic
+question paper generator.
+
+The project demonstrates object-oriented programming,
+file handling, collections, and random question selection.
