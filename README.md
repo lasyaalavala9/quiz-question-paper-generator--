@@ -112,3 +112,12 @@ file handling, collections, and random question selection.
 - Learn file handling
 - Create an interactive quiz application
 - Generate question papers automatically
+## Technologies Used
+
+- Java
+- Object-Oriented Programming
+- Java Collections Framework
+- File Handling
+- Random Class
+- VS Code
+- Git and GitHub
