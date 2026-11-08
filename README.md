@@ -105,3 +105,10 @@ question paper generator.
 
 The project demonstrates object-oriented programming,
 file handling, collections, and random question selection.
+## Project Objectives
+
+- Practice Core Java programming
+- Understand object-oriented programming
+- Learn file handling
+- Create an interactive quiz application
+- Generate question papers automatically
