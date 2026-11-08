@@ -121,3 +121,11 @@ file handling, collections, and random question selection.
 - Random Class
 - VS Code
 - Git and GitHub
+## Features
+
+- Start an interactive quiz
+- Add new questions
+- View available questions
+- Generate question papers
+- Calculate quiz scores
+- Store questions in a text file
