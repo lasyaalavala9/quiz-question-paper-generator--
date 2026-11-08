@@ -129,3 +129,11 @@ file handling, collections, and random question selection.
 - Generate question papers
 - Calculate quiz scores
 - Store questions in a text file
+## Project Structure
+
+- Question.java: Stores question details
+- QuestionManager.java: Manages questions
+- QuizService.java: Handles quiz functionality
+- PaperGenerator.java: Generates question papers
+- Main.java: Provides the application menu
+- questions.txt: Stores question data
