@@ -143,3 +143,9 @@ Compile the Java source files using:
 
 ```powershell
 javac -d out src\*.java
+## Running the Application
+
+Run the application using:
+
+```powershell
+java -cp out Main
