@@ -137,3 +137,9 @@ file handling, collections, and random question selection.
 - PaperGenerator.java: Generates question papers
 - Main.java: Provides the application menu
 - questions.txt: Stores question data
+## Compilation
+
+Compile the Java source files using:
+
+```powershell
+javac -d out src\*.java
